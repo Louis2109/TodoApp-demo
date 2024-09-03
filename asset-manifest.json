@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Louis2109/TodoApp-demo.git/static/css/main.1e11c0ad.css",
-    "main.js": "/Louis2109/TodoApp-demo.git/static/js/main.34bc3109.js",
-    "static/js/453.ac79db8d.chunk.js": "/Louis2109/TodoApp-demo.git/static/js/453.ac79db8d.chunk.js",
-    "index.html": "/Louis2109/TodoApp-demo.git/index.html",
-    "main.1e11c0ad.css.map": "/Louis2109/TodoApp-demo.git/static/css/main.1e11c0ad.css.map",
-    "main.34bc3109.js.map": "/Louis2109/TodoApp-demo.git/static/js/main.34bc3109.js.map",
-    "453.ac79db8d.chunk.js.map": "/Louis2109/TodoApp-demo.git/static/js/453.ac79db8d.chunk.js.map"
+    "main.css": "/TodoApp-demo/static/css/main.1e11c0ad.css",
+    "main.js": "/TodoApp-demo/static/js/main.1404f032.js",
+    "static/js/453.ac79db8d.chunk.js": "/TodoApp-demo/static/js/453.ac79db8d.chunk.js",
+    "index.html": "/TodoApp-demo/index.html",
+    "main.1e11c0ad.css.map": "/TodoApp-demo/static/css/main.1e11c0ad.css.map",
+    "main.1404f032.js.map": "/TodoApp-demo/static/js/main.1404f032.js.map",
+    "453.ac79db8d.chunk.js.map": "/TodoApp-demo/static/js/453.ac79db8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e11c0ad.css",
-    "static/js/main.34bc3109.js"
+    "static/js/main.1404f032.js"
   ]
 }
